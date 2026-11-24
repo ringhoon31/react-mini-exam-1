@@ -1,6 +1,6 @@
 export const initialMenus = [
-    { id: 1, emoji: "🍜", name: "라멘", votes: 0 },
-    { id: 2, emoji: "🍛", name: "카레", votes: 0 },
-    { id: 3, emoji: "🥗", name: "샐러드", votes: 0 },
-    { id: 4, emoji: "🍔", name: "햄버거", votes: 0 },
+    { id: 1, emoji: "🎮", name: "오락실", votes: 0 },
+    { id: 2, emoji: "🎳", name: "볼링장", votes: 0 },
+    { id: 3, emoji: "🎲", name: "보드게임방", votes: 0 },
+    { id: 4, emoji: "🎤", name: "노래방", votes: 0 },
 ]
